@@ -30,5 +30,5 @@ Collection of Figma designs and prototypes I made
 [Tachiyomi](https://www.figma.com/design/1dCqGHXa6LejcK33t05F9t/Tachiyomi-UI?node-id=0-1&t=EUWf0tBuxi1t8gy5-1)
 
 
-# User Persona:
+### User Persona:
 [User Persona](https://www.figma.com/design/fpIWaCwO9sdaG46snCqt5G/Persona?node-id=0-1&t=goMGkXu1Y14Ik0WO-1)
